@@ -83,4 +83,5 @@
 
 ![Alt text](https://github.com/RuslanArestov/kuber-homeworks/blob/main/files/nodes.png) </br>
 ![Alt text](https://github.com/RuslanArestov/kuber-homeworks/blob/main/files/dashboard.png) </br>
+![Alt text](https://github.com/RuslanArestov/kuber-homeworks/blob/main/files/k8s_dashboard.png) </br>
 
