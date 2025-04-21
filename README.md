@@ -79,3 +79,8 @@
 1. Домашняя работа оформляется в своём Git-репозитории в файле README.md. Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
 2. Файл README.md должен содержать скриншоты вывода команд `kubectl get nodes` и скриншот дашборда.
 
+## Решение
+
+![Alt text](https://github.com/RuslanArestov/kuber-homeworks/blob/main/files/nodes.png) </br>
+![Alt text](https://github.com/RuslanArestov/kuber-homeworks/blob/main/files/dashboard.png) </br>
+
